@@ -1,0 +1,189 @@
+body {
+  	width: 1164px;
+  	height: 600px;
+  	background-image: url("../images/Final-Paddington-sm.png");
+  	background-color: #3ED9ED;
+	background-repeat:no-repeat;
+	background-size: 100%;
+
+}
+.main-container {
+	width: 100%;
+	
+}
+.ul-nav {
+	list-style: none;
+	display: inline;
+	margin-right: 100px;
+
+		
+}
+a {
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+	color: #00475E;
+	float: left;
+	text-decoration: none;
+	margin-left: 50px;
+
+}
+a:hover {
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+	color: #0084B0;
+	float: left;
+	text-decoration: none;
+	margin-left: 50px;
+
+}
+h1 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 60px;
+	color: #0086B3;
+	margin-top: 70px;
+	margin-left: 100px;
+	z-index: 1;
+	margin-bottom: 20px;
+    display: block;
+
+}
+.p-title {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	margin-left: 100px;
+	margin-right: 250px;
+	color: #00475E;
+
+}
+#home {
+	width: 100%;
+	height: 643px;
+
+}
+#about {
+	background-color: #3ED9ED;
+	background-repeat:no-repeat;
+	background-position:center top;
+	width: 100%px;
+	height: 600px;
+
+}
+#store {
+	background-color: #FFBD24;
+	background-repeat:no-repeat;
+	background-position:center top;
+	width: 100%;
+	height: 1300px;
+	
+}
+.p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	margin-left: 100px;
+	margin-right: 250px;
+	color: #00475E;
+
+}
+.gallery1 {
+	float: left;
+	width: 800px;
+	display: block-inline;
+	margin-left: 150px;
+	margin-right: 150px;
+
+}
+
+.img-thumbnail{
+	float: left;
+	margin: 10px 10px 10px 10px;
+	padding-bottom: 40px;
+
+
+}
+.title {
+	font-family: 'Open Sans', sans-serif;
+
+}
+.title2 {
+	font-family: 'Open Sans', sans-serif;
+
+}
+.btn-default {
+	font-size: 14px;
+	color: #0E4500;
+	margin: 0 0 0 70px;
+	padding: 5px 0 0 0;
+	background: #94CDE0;
+	border: 2px solid #90C3D4;
+	width: 90px;
+	height: 35px;
+	border-radius: 5px;
+	display: inline-block;
+	text-align: center;
+	z-index: 1;
+
+
+}
+.btn:hover {
+	font-size: 14px;
+	color: #0E4500;
+	margin: 0 0 0 70px;
+	padding: 5px 0 0 0;
+	background: #0086B;
+	border: 2px solid #90C3D4;
+	width: 90px;
+	height: 35px;
+	border-radius: 5px;
+	display: inline-block;
+	text-align: center;
+	z-index: 1;
+
+}
+.form-group{
+	margin: 20px 100px 20px 100px;
+
+}
+.form-check {
+	margin: 0px 0px 0px 0px;
+
+}
+.form-check {
+	display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+textarea.form-control {
+    height: auto;
+    background: red;
+
+}
+.space {
+	width: 800px
+    height: 500px;
+    display: inline-block;
+    margin-bottom: 5px;
+    background: #ffffff;
+}
+
+.label {
+    display: inline-block;
+    max-width: 100%;
+    margin-top: 100px;
+    margin-bottom: 5px;
+    font-weight: 700;
+ 
+ }
+.exampleInputPassword1 {
+	margin-top: 400px;
+}
+
+#footer {
+	font-size: 10px;
+	clear: both;
+	text-align: center;
+	padding: 20px;
+	height: 1%;
+	width: 100%
+}
+
